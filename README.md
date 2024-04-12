@@ -1,3 +1,9 @@
+  GROUP MEMBERS
+1 tajudin ahmed jama      id 1403049
+2 yabsira haile serbesa    id 1405091
+3 hashim farah aden         id 1405054
+4 yosef mulugeta dema     id 1403303
+5 firaol arebu  aliy       id 1401968
 # Student Management System
 
 This is a Python program for managing student information in a student database. It provides various functionalities such as registering a new student, searching for a student, updating student information, deleting a student, counting the total number of students, counting the number of males and females, displaying the top-scoring student for each department, displaying the top-scoring female student for each department, listing students who scored above a given GPA, showing frequent student names, and displaying the total number of students in each department.
